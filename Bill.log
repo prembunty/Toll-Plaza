@@ -1,0 +1,15 @@
+Line 225: Class MSFlexGridLib.MSFlexGrid of control MSF was not a loaded control class.
+Line 281: Class MSComCtl2.DTPicker of control BDate was not a loaded control class.
+Line 231: The property name _ExtentX in MSF is invalid.
+Line 232: The property name _ExtentY in MSF is invalid.
+Line 233: The property name _Version in MSF is invalid.
+Line 234: The property name Rows in MSF is invalid.
+Line 235: The property name Cols in MSF is invalid.
+Line 236: The property name FixedCols in MSF is invalid.
+Line 238: The property name ForeColorSel in MSF is invalid.
+Line 287: The property name _ExtentX in BDate is invalid.
+Line 288: The property name _ExtentY in BDate is invalid.
+Line 289: The property name _Version in BDate is invalid.
+Line 299: The property name CustomFormat in BDate is invalid.
+Line 300: The property name Format in BDate is invalid.
+Line 301: The property name CurrentDate in BDate is invalid.

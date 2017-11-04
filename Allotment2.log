@@ -1,0 +1,42 @@
+Line 76: Class MSComCtl2.DTPicker of control TimeIn was not a loaded control class.
+Line 105: Class MSComCtl2.DTPicker of control TimeOut was not a loaded control class.
+Line 118: Class MSComCtl2.DTPicker of control DateOut was not a loaded control class.
+Line 131: Class MSComCtl2.DTPicker of control DateIn was not a loaded control class.
+Line 153: Class MSComCtl2.DTPicker of control DTPicker1 was not a loaded control class.
+Line 197: Class MSFlexGridLib.MSFlexGrid of control MSF was not a loaded control class.
+Line 82: The property name _ExtentX in TimeIn is invalid.
+Line 83: The property name _ExtentY in TimeIn is invalid.
+Line 84: The property name _Version in TimeIn is invalid.
+Line 85: The property name CustomFormat in TimeIn is invalid.
+Line 86: The property name Format in TimeIn is invalid.
+Line 87: The property name CurrentDate in TimeIn is invalid.
+Line 111: The property name _ExtentX in TimeOut is invalid.
+Line 112: The property name _ExtentY in TimeOut is invalid.
+Line 113: The property name _Version in TimeOut is invalid.
+Line 114: The property name CustomFormat in TimeOut is invalid.
+Line 115: The property name Format in TimeOut is invalid.
+Line 116: The property name CurrentDate in TimeOut is invalid.
+Line 124: The property name _ExtentX in DateOut is invalid.
+Line 125: The property name _ExtentY in DateOut is invalid.
+Line 126: The property name _Version in DateOut is invalid.
+Line 127: The property name CustomFormat in DateOut is invalid.
+Line 128: The property name Format in DateOut is invalid.
+Line 129: The property name CurrentDate in DateOut is invalid.
+Line 137: The property name _ExtentX in DateIn is invalid.
+Line 138: The property name _ExtentY in DateIn is invalid.
+Line 139: The property name _Version in DateIn is invalid.
+Line 149: The property name CustomFormat in DateIn is invalid.
+Line 150: The property name Format in DateIn is invalid.
+Line 151: The property name CurrentDate in DateIn is invalid.
+Line 159: The property name _ExtentX in DTPicker1 is invalid.
+Line 160: The property name _ExtentY in DTPicker1 is invalid.
+Line 161: The property name _Version in DTPicker1 is invalid.
+Line 162: The property name Format in DTPicker1 is invalid.
+Line 163: The property name CurrentDate in DTPicker1 is invalid.
+Line 203: The property name _ExtentX in MSF is invalid.
+Line 204: The property name _ExtentY in MSF is invalid.
+Line 205: The property name _Version in MSF is invalid.
+Line 206: The property name Rows in MSF is invalid.
+Line 207: The property name Cols in MSF is invalid.
+Line 208: The property name FixedCols in MSF is invalid.
+Line 209: The property name ForeColorSel in MSF is invalid.
